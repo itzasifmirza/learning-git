@@ -8,9 +8,4 @@ echo "This is from my desktop computer";
 
 echo "hi from github desktop";
 
-function abc(){
-	echo "string";
-}
-
-
 ?>
